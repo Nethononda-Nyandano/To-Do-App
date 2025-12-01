@@ -1,3 +1,8 @@
+<!-- Banner Image -->
+![To-Do App Banner](https://raw.githubusercontent.com/Nethononda-Nyandano/To-Do-App/main/img/banner.png)
+
+
+
 # 📌 To-Do App
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -102,6 +107,7 @@ Delete Task: Removes task from DOM + localStorage
 ---
 Contributions are welcome!
 Feel free to open an issue or create a pull request.
+
 
 
 
