@@ -55,7 +55,7 @@ This app allows users to add, edit, and delete tasks in real-time with persisten
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/To-Do-App.git
+   git clone https://github.com/Nethononda-Nyandano/To-Do-App.git
 Open the project folder and launch:
 
 ```bash
@@ -72,8 +72,10 @@ Click the edit icon to edit a task
 Click the delete icon to remove it
 
 All changes are saved automatically!
+
 ---
-###🧠 How It Works
+🧠 How It Works
+---
 Add Task: Stored in localStorage using a timestamp key
 
 Load Tasks: Tasks rendered on page load for both desktop & mobile views
@@ -81,8 +83,10 @@ Load Tasks: Tasks rendered on page load for both desktop & mobile views
 Edit Task: Inline text editing updates the stored value
 
 Delete Task: Removes task from DOM + localStorage
+
 ---
-#📌 Future Improvements
+📌 Future Improvements
+---
 - Task categories
 
 - Priority labels (High/Medium/Low)
@@ -92,10 +96,13 @@ Delete Task: Removes task from DOM + localStorage
 - Search bar
 
 - Drag-and-drop ordering
+- 
 ---
 🙌 Contributions
+---
 Contributions are welcome!
 Feel free to open an issue or create a pull request.
+
 
 
 
