@@ -61,6 +61,8 @@ Open the project folder and launch:
 ```bash
 Copy code
 index.html
+```
+###
 Start using the app:
 
 Type a task → click Add
@@ -70,8 +72,8 @@ Click the edit icon to edit a task
 Click the delete icon to remove it
 
 All changes are saved automatically!
-
-🧠 How It Works
+---
+###🧠 How It Works
 Add Task: Stored in localStorage using a timestamp key
 
 Load Tasks: Tasks rendered on page load for both desktop & mobile views
@@ -79,7 +81,7 @@ Load Tasks: Tasks rendered on page load for both desktop & mobile views
 Edit Task: Inline text editing updates the stored value
 
 Delete Task: Removes task from DOM + localStorage
-```
+---
 #📌 Future Improvements
 - Task categories
 
@@ -94,6 +96,7 @@ Delete Task: Removes task from DOM + localStorage
 🙌 Contributions
 Contributions are welcome!
 Feel free to open an issue or create a pull request.
+
 
 
 
