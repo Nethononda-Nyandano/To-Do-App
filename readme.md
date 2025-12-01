@@ -47,8 +47,7 @@ This app allows users to add, edit, and delete tasks in real-time with persisten
 │ ├── edit.svg
 │ └── delete.svg
 ```
-yaml
-Copy code
+
 
 ---
 
@@ -59,7 +58,7 @@ Copy code
    git clone https://github.com/your-username/To-Do-App.git
 Open the project folder and launch:
 
-bash
+```bash
 Copy code
 index.html
 Start using the app:
@@ -80,21 +79,22 @@ Load Tasks: Tasks rendered on page load for both desktop & mobile views
 Edit Task: Inline text editing updates the stored value
 
 Delete Task: Removes task from DOM + localStorage
+```
+#📌 Future Improvements
+- Task categories
 
-📌 Future Improvements
-Task categories
+- Priority labels (High/Medium/Low)
 
-Priority labels (High/Medium/Low)
+- Dark mode
 
-Dark mode
+- Search bar
 
-Search bar
-
-Drag-and-drop ordering
-
+- Drag-and-drop ordering
+---
 🙌 Contributions
 Contributions are welcome!
 Feel free to open an issue or create a pull request.
+
 
 
 
