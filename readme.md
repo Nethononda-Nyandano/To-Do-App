@@ -22,24 +22,16 @@ This app allows users to add, edit, and delete tasks in real-time with persisten
 
 ---
 
-## 🛠 Technologies Used
-
-| Technology | Purpose |
-|-----------|---------|
-| 🌐 **HTML5** | Structure of the app |
-| 🎨 **CSS3 / Tailwind CSS CDN** | Styling & responsive layout |
-| 💻 **JavaScript (ES6)** | App logic & interactivity |
-| 💾 **localStorage API** | Persist tasks in the browser |
 
 ---
 
-## 📱 Responsive UI
+##  Responsive UI
 
-### 💻 Desktop  
+### Desktop  
 - Displays tasks in a **table layout**  
 - Date, Task, and Action columns  
 
-### 📱 Mobile  
+###  Mobile  
 - Automatically switches to **card layout**  
 - Touch-friendly buttons  
 - No horizontal scroll issues  
@@ -48,13 +40,13 @@ This app allows users to add, edit, and delete tasks in real-time with persisten
 
 ## 📂 Folder Structure
 
-.
+bash```
 ├── index.html
 ├── README.md
 ├── img/
 │ ├── edit.svg
 │ └── delete.svg
-
+```
 yaml
 Copy code
 
@@ -103,5 +95,6 @@ Drag-and-drop ordering
 🙌 Contributions
 Contributions are welcome!
 Feel free to open an issue or create a pull request.
+
 
 
