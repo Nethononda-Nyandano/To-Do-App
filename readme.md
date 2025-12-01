@@ -40,7 +40,7 @@ This app allows users to add, edit, and delete tasks in real-time with persisten
 
 ## 📂 Folder Structure
 
-bash```
+```bash
 ├── index.html
 ├── README.md
 ├── img/
@@ -95,6 +95,7 @@ Drag-and-drop ordering
 🙌 Contributions
 Contributions are welcome!
 Feel free to open an issue or create a pull request.
+
 
 
 
